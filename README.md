@@ -1,5 +1,5 @@
 ### Hi there 👋 glad to see you here! My name is Rui :boy: and welcome to my space (not MySpace)!
-### I'm from Lisbon, Portugal and I currently work at <a href="https://www.infinera.com"><img src="https://www.infinera.com/wp-content/uploads/logo-header.png.webp" alt="Infinera Logo" width="75"/></a> as a Java developer.
+### I'm from Lisbon, Portugal and I currently work at <a href="https://www.relexsolutions.com"><img src="https://www.relexsolutions.com/wp-content/uploads/2024/01/relex-primary-logo-RGB-vector.png" alt="RELEX Solutions Logo" width="75"/></a> as a Java developer.
 
 I love developing software (mostly backend) because we have the possibility to create what we want without having to wait for other to do it for you, complementing that I also have a sweet spot for System Administration and Software Security to try and have a sense of that exists and what is being done.
 
